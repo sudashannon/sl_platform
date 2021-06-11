@@ -1,0 +1,3 @@
+if (SL_PLATFORM_CMSIS_RTOS)
+
+endif ()
